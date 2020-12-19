@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! Some things about me:
+* Passionate about deep learning and computer vision
+* Studying at the Technical University of Munich
+* Currently working on pipelines for deep learning models and improving my C++ skills 
 
 <!--
 **a-doering/a-doering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
